@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/item_height">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/viewLoadMore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ProgressBar
+                android:id="@+id/pbBar"
+                style="@style/Widget.AppCompat.ProgressBar"
+                android:layout_width="25dp"
+                android:layout_height="25dp" />
+
+            <TextView
+                android:id="@+id/tvHint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="数据加载中..."
+                android:textColor="@color/text_silver"
+                android:textSize="@dimen/text_s" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/viewLoadFail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="加载失败"
+            android:textColor="@color/text_silver"
+            android:textSize="@dimen/text_s" />
+
+        <TextView
+            android:id="@+id/viewLoadFinish"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="已加载全部"
+            android:textColor="@color/text_silver"
+            android:textSize="@dimen/text_s" />
+
+        <!--        <TextView-->
+        <!--            android:id="@+id/viewLoadComplete"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="match_parent"-->
+        <!--            android:gravity="center"-->
+        <!--            android:text="已加载"-->
+        <!--            android:textSize="@dimen/text_l" />-->
+    </FrameLayout>
+
+
+</FrameLayout>

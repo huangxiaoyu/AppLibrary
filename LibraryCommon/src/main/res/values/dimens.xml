@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_height">45dp</dimen>
+    <dimen name="edit_padding">5dp</dimen>
+    <dimen name="page_padding">13.5dp</dimen>
+    <dimen name="item_padding">15.5dp</dimen>
+    <dimen name="text_ss">9sp</dimen>
+    <dimen name="text_s">11sp</dimen>
+    <dimen name="text_m">12sp</dimen>
+    <dimen name="text_l">14sp</dimen>
+    <dimen name="text_xl">16sp</dimen>
+    <dimen name="text_xxl">18sp</dimen>
+    <dimen name="text_xxxl">22sp</dimen>
+    <dimen name="text_single">17sp</dimen>
+    <dimen name="text_40">40sp</dimen>
+    <dimen name="text_60">60sp</dimen>
+    <dimen name="divider_bold">8px</dimen>
+    <dimen name="divider_fine">0.6dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp60">60dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <!--sweetalertdialog-->
+    <dimen name="alert_width">290dp</dimen>
+    <dimen name="common_circle_width">3dp</dimen>
+    <dimen name="progress_circle_radius">34dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+</resources>

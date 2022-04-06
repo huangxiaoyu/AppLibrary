@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.hxy.app.librarycore">
+
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+    <application tools:ignore="LockedOrientationActivity">
+<!--        <activity-->
+<!--            android:name=".activity.ActivityWeb"-->
+<!--            android:screenOrientation="portrait"-->
+<!--            android:windowSoftInputMode="adjustPan|adjustResize|stateAlwaysHidden" />-->
+
+<!--        <activity-->
+<!--            android:name=".activity.ActivityPreLocalFile"-->
+<!--            android:screenOrientation="portrait"-->
+<!--            android:windowSoftInputMode="adjustPan|adjustResize|stateAlwaysHidden" />-->
+    </application>
+
+</manifest>

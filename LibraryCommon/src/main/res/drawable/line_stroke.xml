@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="line">
+    <stroke
+        android:width="@dimen/dp2"
+        android:color="@color/red"
+        android:dashWidth="6dp"
+        android:dashGap="4dp" /><!--虚线间隔宽度:4  虚线的宽度:6-->
+    
+</shape>

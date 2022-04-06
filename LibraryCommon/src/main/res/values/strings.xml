@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_down_page" />
+    <string name="forget_password"><u>忘记密码</u></string>
+    <string name="no_entry">未录入</string>
+
+    <!--sweetalertdialog-->
+    <string name="dialog_default_title">Here\'s a message!</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="LOADING">Loading...</string>
+    <string name="LOADING_ERROR">数据加载失败</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="Pass">合格</string>
+    <string name="fail">不合格</string>
+
+</resources>
