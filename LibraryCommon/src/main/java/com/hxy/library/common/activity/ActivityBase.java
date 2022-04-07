@@ -21,7 +21,6 @@ import com.hxy.library.common.http.Page;
 import com.hxy.library.common.http.lifecycle.AndroidLifecycle;
 import com.hxy.library.common.http.lifecycle.LifecycleProvider;
 import com.hxy.library.common.utils.AppTaskManager;
-import com.hxy.app.librarycore.utils.BaseContract;
 import com.hxy.library.common.utils.BaseContract;
 import com.hxy.library.common.utils.SweetAlertDialogFactory;
 import com.hxy.library.common.utils.Utils;

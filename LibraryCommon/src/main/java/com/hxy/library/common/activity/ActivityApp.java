@@ -11,7 +11,6 @@ import androidx.fragment.app.FragmentTransaction;
 
 import com.hxy.app.librarycore.R;
 import com.hxy.app.librarycore.databinding.ActivityAppBinding;
-import com.hxy.app.librarycore.utils.BaseContract;
 import com.hxy.library.common.fragment.FragmentBase;
 import com.hxy.library.common.utils.BaseContract;
 import com.hxy.library.common.utils.LogUtils;
