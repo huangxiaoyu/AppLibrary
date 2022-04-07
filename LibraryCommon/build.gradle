@@ -82,7 +82,7 @@ dependencies {
     api "com.pnikosis:materialish-progress:1.0"
     api "com.blankj:utilcodex:1.30.6"
     /*状态栏适配*/
-    implementation 'com.jaeger.statusbarutil:library:1.5.1'
+    api 'com.jaeger.statusbarutil:library:1.5.1'
     // 下面各SDK根据宿主App是否使用相关业务按需引入。
     // OAID目前为目前国内市场主流的Android Q设备标识，可根据需要选择。
     // 友盟统计SDK
