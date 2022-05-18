@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android/workspace/AppLibrary/LibraryCommon/src/main/res/layout/pop_item_text.xml" value="0.1" />
         <entry key="..\:/android/workspace/BaseLibrary/LibraryCore/src/main/res/layout/activity_app.xml" value="0.1" />
         <entry key="..\:/android/workspace/BaseLibrary/LibraryCore/src/main/res/layout/activity_pre_local_file.xml" value="0.11024217961654895" />
         <entry key="..\:/android/workspace/BaseLibrary/LibraryCore/src/main/res/layout/activity_web.xml" value="0.11856710393541876" />
